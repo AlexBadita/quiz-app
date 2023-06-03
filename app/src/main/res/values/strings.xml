@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="_30_00">30:00</string>
+    <string name="question_1">Question 1</string>
+    <string name="_10">/10</string>
+    <string name="skip">Skip</string>
+    <string name="confirm">Confirm</string>
+    <string name="loren_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam justo purus, porta mollis laoreet et.</string>
+    <string name="lorem_ipsum_2">Lorem ipsum</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="quiz_results">Quiz Result</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_score">Your Score</string>
+    <string name="_10_">10</string>
+    <string name="_10_2">/ 10</string>
+    <string name="try_again">Try again</string>
+    <string name="back">Back</string>
+    <string name="username">Username</string>
+</resources>
